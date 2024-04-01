@@ -22,7 +22,7 @@ The dataset used in this project can be found [here](https://www.kaggle.com/data
    pip install -r requirements.txt
 3. Run the following notebook to generate the models:
    
-   `Movie Recommender System Data Analysis.ipynb`
+   `Movie_Recommendation_System.ipynb`
 4. Run the Streamlit app:
    ```bash
    streamlit run app.py
